@@ -25,7 +25,7 @@ git clone https://github.com/genuiman/stellar_burger_main.git
 cd stellar_burger_main
 npm install
 npm start
-Откройте в браузере: http://localhost:3000
+Откройте в браузере: http://localhost:4000
 
 📂 Структура проекта
 css
